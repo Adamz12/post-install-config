@@ -29,7 +29,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Create Help Topics: Add categories (Business Critical Outage, Password Reset, etc.) for proper ticket routing.
 
 <h2>Configuration Steps</h2>
-
+<p>
+In this tutorial, you’ll walk through the final steps of setting up and configuring osTicket so it’s ready for real-world use. We’ll start by accessing the Admin/Analyst (SCP) interface and the End User portal to see the difference between agent and customer views. Then you’ll create a basic help-desk structure—defining Roles (like Supreme Admin), Departments (e.g., SysAdmins), and Teams (such as Online Banking)—before locking down ticket creation so only registered users can open tickets. Next, you’ll add Agents (Jane, John) and End Users (Karen, Ken) to their respective panels, set up Service Level Agreements (Sev-A, Sev-B, Sev-C) to enforce response times, and finally create Help Topics (Business Critical Outage, Password Reset, etc.) so incoming tickets route correctly. By the end, your osTicket instance will be fully organized and ready to handle support requests.
+</p>
+<h4>1. Configure Roles</h4>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
