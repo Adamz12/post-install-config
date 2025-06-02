@@ -22,11 +22,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Learn the interfaces: Differentiate between the Admin/Analyst (SCP) login and the End User portal.
+- Set up agent hierarchy: Create Roles, Departments, and Teams (e.g., Supreme Admin, SysAdmins, Online Banking).
+- Control user access: Require registration for ticket creation and add Agents (Jane, John) and End Users (Karen, Ken).
+- Define SLAs: Configure Service Level Agreements (Sev-A, Sev-B, Sev-C) with appropriate response times.
+- Create Help Topics: Add categories (Business Critical Outage, Password Reset, etc.) for proper ticket routing.
 
 <h2>Configuration Steps</h2>
 
