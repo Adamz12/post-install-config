@@ -39,9 +39,9 @@ On the Windows VM, open a web browser and navigate to: http://localhost/osTicket
 
 When prompted, enter:
 
-Username: adminuser
+Username: Adam1
 
-Password: Password1
+Password: Cyberman111!
 
 Click Login to reach the osTicket dashboard.
 </p>
