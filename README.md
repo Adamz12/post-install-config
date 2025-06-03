@@ -34,7 +34,8 @@ In this tutorial, you’ll walk through the final steps of setting up and config
 </p>
 <h4>1. Configure Roles</h4>
 <p>
-On the Windows VM, open a web browser and navigate to:(http://localhost/osTicket/scp/login.php)
+On the Windows VM, open a web browser and navigate to: http://localhost/osTicket/scp/login.php 
+
 
 When prompted, enter:
 
