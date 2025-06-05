@@ -75,3 +75,43 @@ In the Admin Panel, navigate to Settings → User Settings, find “Require regi
 <img src="https://i.postimg.cc/rF2nfDD6/ensure-unchecked.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+<p>
+In the Admin Panel, go to Agents → Add New. For Jane, enter:
+
+- Name: Jane
+
+- Email: jane@gmail.com
+
+- Username: jane
+
+- Password: Password1
+
+- Department: SysAdmins
+
+- Role: Supreme Admin (full access)
+
+- Team: Online Banking
+ Click Create Agent to save.
+
+Next, click Add New again for John and enter:
+
+- Name: John
+
+- Email: john@gmail.com
+
+- Username: john
+
+- Password: Password1
+
+- Department: Support
+
+- Role: View Only (restricts him to ticket viewing)
+
+- Team: (leave blank)
+Click Create Agent. Now Jane has full admin rights and belongs to the Online Banking team, while John can only view tickets and isn’t assigned to any team.
+</p>
+<p>
+<img src="https://i.postimg.cc/9QhG3T22/adding-agents.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
