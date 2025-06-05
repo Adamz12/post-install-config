@@ -115,3 +115,15 @@ Click Create Agent. Now Jane has full admin rights and belongs to the Online Ban
 <img src="https://i.postimg.cc/9QhG3T22/adding-agents.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+<p>
+In the Agent Panel, go to Users → Add New, then:
+
+- For Karen, set Name to Karen and Email to karen@gmail.com, then click Create User.
+
+- For Ken, set Name to Ken and Email to ken@gmail.com, then click Create User.
+</p>
+<p>
+<img src="https://i.postimg.cc/9QhG3T22/adding-agents.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
