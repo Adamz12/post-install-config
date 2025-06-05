@@ -61,6 +61,17 @@ In the Admin Panel, open Agents → Departments and click Add New Department. Na
 <img src="https://i.imgur.com/45STrWb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the Admin Panel, navigate to Agents → Teams and click Add New Team. Name the team Online Banking and leave the agent list empty for now, then click Create Team. This sets up the “Online Banking” team so you can assign agents later as needed.
+</p>
+<p>
+<img src="https://i.postimg.cc/8PfKHhpm/creating-online-banking.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+In the Admin Panel, navigate to Settings → User Settings, find “Require registration and login to create tickets”, and uncheck it. Click Save Changes. This allows any visitor to submit a ticket without first registering.
+</p>
+<p>
+<img src="https://i.postimg.cc/rF2nfDD6/ensure-unchecked.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
