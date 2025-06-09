@@ -167,3 +167,20 @@ These SLA plans correspond to ticket severity levels, ensuring each issue is ack
 <img src="https://i.postimg.cc/VLbBZGh4/doing-sla.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+<p>
+In the Admin Panel, go to **Manage → Help Topics** and click **Add New Topic** for each entry, making sure to choose the correct topic type:
+
+* **Business Critical Outage** – set **Type:** Report a Problem
+* **Personal Computer Issues** – set **Type:** Report a Problem
+* **Equipment Request** – set **Type:** General Enquiry
+* **Password Reset** – set **Type:** Report a Problem
+* **Other** – set **Type:** General Enquiry
+
+Click **Save Changes** after configuring each topic so they’ll appear correctly on the ticket-creation form.
+
+</p>
+<p>
+<img src="https://i.postimg.cc/KYXZrzMJ/help-topics.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
