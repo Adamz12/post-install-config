@@ -127,3 +127,43 @@ In the Agent Panel, go to Users → Add New, then:
 <img src="https://i.postimg.cc/9QhG3T22/adding-agents.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+<p>
+In the Admin Panel, navigate to Manage → SLA and click Add New Plan three times to create your severity tiers:
+
+Sev-A:
+
+- Name: Sev-A
+
+- Grace Period: 1 hour
+
+- Schedule: 24/7
+
+Description: Highest‐priority tickets get a 1-hour response window around the clock.
+
+Sev-B:
+
+- Name: Sev-B
+
+- Grace Period: 4 hours
+
+- Schedule: 24/7
+
+Description: Medium‐priority tickets receive a 4-hour response window at any time.
+
+Sev-C:
+
+- Name: Sev-C
+
+- Grace Period: 8 hours
+
+- Schedule: Business Hours
+
+Description: Lower‐priority tickets get an 8-hour response window during your defined business hours.
+
+These SLA plans correspond to ticket severity levels, ensuring each issue is acknowledged within its designated timeframe.
+</p>
+<p>
+<img src="https://i.postimg.cc/VLbBZGh4/doing-sla.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
