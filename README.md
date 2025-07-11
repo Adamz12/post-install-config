@@ -42,7 +42,7 @@ When prompted, enter: admin credentials
 Click Login to reach the osTicket dashboard.
 </p>
 <p>
-<img src="https://i.imgur.com/emBscJG.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/1zvDXth8/admin-page.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the osTicket Admin Panel, go to Agents → Roles and click Add New Role. Name the role Supreme Admin and check every permission box so this role has full access to all areas of the system (tickets, agents, staff, settings, etc.)
@@ -50,7 +50,7 @@ In the osTicket Admin Panel, go to Agents → Roles and click Add New Role. Name
 <br />
 
 <p>
-<img src="https://i.imgur.com/cQRHrLO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/HkHXx8xt/assigning-supereme-admin-role.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the Admin Panel, open Agents → Departments and click Add New Department. Name it SysAdmins, set the parent to Top Level so it sits at the root of the hierarchy, and click Create Department. Agents in the SysAdmins department will then have visibility into every ticket across all departments.
@@ -58,13 +58,13 @@ In the Admin Panel, open Agents → Departments and click Add New Department. Na
 <br />
 
 <p>
-<img src="https://i.imgur.com/45STrWb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/mDMgCVp1/sysadmins-dept.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the Admin Panel, navigate to Agents → Teams and click Add New Team. Name the team Online Banking and leave the agent list empty for now, then click Create Team. This sets up the “Online Banking” team so you can assign agents later as needed.
 </p>
 <p>
-<img src="https://i.postimg.cc/8PfKHhpm/creating-online-banking.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/8PfKHhpm/creating-online-banking.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -72,7 +72,7 @@ In the Admin Panel, navigate to Agents → Teams and click Add New Team. Name th
 In the Admin Panel, navigate to Settings → User Settings, find “Require registration and login to create tickets”, and uncheck it. Click Save Changes. This allows any visitor to submit a ticket without first registering.
 </p>
 <p>
-<img src="https://i.postimg.cc/rF2nfDD6/ensure-unchecked.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/rF2nfDD6/ensure-unchecked.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -112,7 +112,7 @@ Next, click Add New again for John and enter:
 Click Create Agent. Now Jane has full admin rights and belongs to the Online Banking team, while John can only view tickets and isn’t assigned to any team.
 </p>
 <p>
-<img src="https://i.postimg.cc/9QhG3T22/adding-agents.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/9QhG3T22/adding-agents.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -124,7 +124,7 @@ In the Agent Panel, go to Users → Add New, then:
 - For Ken, set Name to Ken and Email to ken@gmail.com, then click Create User.
 </p>
 <p>
-<img src="https://i.postimg.cc/9QhG3T22/adding-agents.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/9QhG3T22/adding-agents.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -164,7 +164,7 @@ Description: Lower‐priority tickets get an 8-hour response window during your 
 These SLA plans correspond to ticket severity levels, ensuring each issue is acknowledged within its designated timeframe.
 </p>
 <p>
-<img src="https://i.postimg.cc/VLbBZGh4/doing-sla.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/VLbBZGh4/doing-sla.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -181,6 +181,6 @@ Click **Save Changes** after configuring each topic so they’ll appear correctl
 
 </p>
 <p>
-<img src="https://i.postimg.cc/KYXZrzMJ/help-topics.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/KYXZrzMJ/help-topics.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <br />
